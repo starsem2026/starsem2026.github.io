@@ -1,9 +1,15 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
-    url: /about/
+  - title: "Home"
+    url: /
+  - title: "Calls"
+    url: /calls/
+  - title: "Dates"
+    url: /dates/
+  - title: "Program"
+    url: /program/
+  - title: "Committees"
+    url: /committees/
+  - title: "Venue"
+    url: /venue/
+  - title: "News"
+    url: /news/
