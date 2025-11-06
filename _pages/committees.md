@@ -53,7 +53,7 @@ ul.committee .affil { display: block; font-size: 0.95rem; opacity: 0.8; }
     <img src="/assets/images/MD04510.jpg" alt="Hsuvas Borkakoty">
     <div class="info">
       <a href="https://hsuvas.wixsite.com/hsuvas">Hsuvas Borkakoty</a>
-      <span class="affil">IT:U Interdisciplinary Transformation University Austria (Austria)</span>
+      <span class="affil">IT:U Interdisciplinary Transformation University Austria </span>
     </div>
   </li>
 </ul>
