@@ -13,7 +13,16 @@ header:
       url: /dates/
 intro:
   - excerpt: >
-      Welcome to *SEM 2026. The conference brings together research on lexical and computational semantics.
+     The 15th Joint Conference on Lexical and Computational Semantics (*SEM 2026) 
+  is organized and sponsored by SIGLEX, the Special Interest Group of the ACL, 
+  and will be colocated with [ACL 2026](https://acl2026.org). 
+  *SEM brings together researchers interested in the semantics of natural languages 
+  and its computational modeling. The conference embraces data-driven, neural, 
+  and probabilistic approaches, as well as symbolic approaches and everything in between; 
+  practical applications as well as theoretical contributions are welcome. 
+  The long-term goal of *SEM is to provide a stable forum for the growing number 
+  of NLP researchers working on all aspects of semantics of (many and diverse!) 
+  natural languages.
 feature_row:
   - title: "Call for Papers"
     url: "/calls/"
