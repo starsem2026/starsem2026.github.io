@@ -1,38 +1,127 @@
 
+# title: "*SEM 2026"
+# email: "startsem-2026-pcs@googlegroups.com"
+# description: >- # this means to ignore newlines until "baseurl:"
+# "The 15th Joint Conference on Lexical and Computational Semantics, co-located with ACL-2026, San-Diego, California."
+# twitter_username: starsem2026  
+# #github_username: username
+# minimal_mistakes_skin: air
+# logo: /assets/images/starsem_logo.png        # add file
+# masthead_title: "*SEM 2026"
+# breadcrumbs: true
+# search: true
+
+# #Added new
+
+# url: "https://starsem2026.github.io"   
+# baseurl: ""                          
+# repository: "starsem2026/starsem2026.github.io"
+
+
+# # Build settings
+# markdown: kramdown
+# remote_theme: mmistakes/minimal-mistakes
+# # Outputting
+# permalink: /:categories/:title/
+# paginate: 5 # amount of posts to show
+# paginate_path: /page:num/
+# timezone:  Europe/Vienna # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+# include:
+#   - _pages
+
+
+
+# # Plugins (previously gems:)
+# plugins:
+#   - jekyll-paginate
+#   - jekyll-sitemap
+#   - jekyll-gist
+#   - jekyll-feed
+#   - jemoji
+#   - jekyll-include-cache
+
+# author:
+#   name   : "*SEM 2026"
+#   #avatar : "/assets/images/bio-photo.jpg"
+#   bio    : "The 15th Joint Conference on Lexical and Computational Semantics"
+  
+#   links:
+#     - label: "Website"
+#       icon: "fas fa-fw fa-link"
+#       url: "https://starsem2026.github.io/"
+#     - label: "Twitter"
+#       icon: "fab fa-fw fa-twitter-square"
+#       url: "https://x.com/HsuvasB"               # fixed
+#     - label: "GitHub"
+#       icon: "fab fa-fw fa-github"
+#       url: "https://github.com/starsem2026"
+
+# footer:
+#   links:
+#     - label: "Twitter"
+#       icon: "fab fa-fw fa-twitter-square"
+#       url: "https://x.com/HsuvasB"
+   
+#     # - label: "LinkedIN"
+#     #   icon: "fab fa-fw fa-linkedin"
+#     #   url: "https://instagram.com/"
+
+# defaults:
+#   # _posts
+#   - scope:
+#       path: ""
+#       type: posts
+#     values:
+#       layout: single
+#       author_profile: false
+#       # read_time: true
+#       # comments: true
+#       # share: true
+#       # related: true
+#   # _pages
+#   - scope:
+#       path: "_pages"
+#       type: pages
+#     values:
+#       layout: single
+#       author_profile: false
+
+# category_archive:
+#   type: liquid
+#   path: /categories/
+# tag_archive:
+#   type: liquid
+#   path: /tags/
+
+
+
+
+
+
 title: "*SEM 2026"
-email: "startsem-2026-pcs@googlegroups.com"
-description: >- # this means to ignore newlines until "baseurl:"
-"The 15th Joint Conference on Lexical and Computational Semantics, co-located with ACL-2026, San-Diego, California."
-twitter_username: starsem2026  
-#github_username: username
-minimal_mistakes_skin: air
-logo: /assets/images/starsem_logo.png        # add file
-masthead_title: "*SEM 2026"
-breadcrumbs: true
+email: "contact@starsem2026.org"
+description: "The 15th Joint Conference on Lexical and Computational Semantics"
+
+twitter_username: starsem2026
+github_username: starsem2026
+minimal_mistakes_skin: default
 search: true
 
-#Added new
-
-url: "https://starsem2026.github.io"   
-baseurl: ""                          
+url: "https://starsem2026.github.io"
+baseurl: ""
 repository: "starsem2026/starsem2026.github.io"
 
-
-# Build settings
 markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes
-# Outputting
-permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
-paginate_path: /page:num/
-timezone:  Europe/Vienna # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+remote_theme: "mmistakes/minimal-mistakes@4.26.0"
+permalink: "/:categories/:title/"
+paginate: 5
+paginate_path: "/page:num/"
+timezone: "Europe/Vienna"
 
 include:
   - _pages
 
-
-
-# Plugins (previously gems:)
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
@@ -41,45 +130,18 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
-author:
-  name   : "*SEM 2026"
-  #avatar : "/assets/images/bio-photo.jpg"
-  bio    : "The 15th Joint Conference on Lexical and Computational Semantics"
-  
-  links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://starsem2026.github.io/"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://x.com/HsuvasB"               # fixed
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/starsem2026"
-
-footer:
-  links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://x.com/HsuvasB"
-   
-    # - label: "LinkedIN"
-    #   icon: "fab fa-fw fa-linkedin"
-    #   url: "https://instagram.com/"
-
+# Keep conference pages clean (no sidebar)
 defaults:
-  # _posts
   - scope:
       path: ""
       type: posts
     values:
       layout: single
       author_profile: false
-      # read_time: true
-      # comments: true
-      # share: true
-      # related: true
-  # _pages
+      read_time: true
+      comments: false
+      share: true
+      related: true
   - scope:
       path: "_pages"
       type: pages
@@ -93,3 +155,11 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+
+
+
+
+
+
+
