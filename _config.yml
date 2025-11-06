@@ -57,10 +57,18 @@ author:
       url: "https://github.com/starsem2026"
 
 footer:
+ footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://x.com/HsuvasB"
+    - label: "Designed by Hsuvas Borkakoty"
+      icon: "fas fa-user"
+      url: "https://hsuvas.github.io"   # or remove if no link
+    - label: "Powered by Jekyll"
+      icon: "fas fa-cog"
+      url: "https://jekyllrb.com"
+    - label: "Minimal Mistakes Theme"
+      icon: "fas fa-paint-brush"
+      url: "https://mmistakes.github.io/minimal-mistakes"
+
    
     # - label: "LinkedIN"
     #   icon: "fab fa-fw fa-linkedin"
@@ -92,73 +100,6 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
-
-
-
-
-
-
-# title: "*SEM 2026"
-# email: "startsem-2026-pcs@googlegroups.com"
-# description: "The 15th Joint Conference on Lexical and Computational Semantics"
-
-# twitter_username: starsem2026
-# github_username: starsem2026
-# minimal_mistakes_skin: default
-# search: true
-
-# url: "https://starsem2026.github.io"
-# baseurl: ""
-# repository: "starsem2026/starsem2026.github.io"
-
-# markdown: kramdown
-# remote_theme: "mmistakes/minimal-mistakes@4.26.0"
-# permalink: "/:categories/:title/"
-# paginate: 5
-# paginate_path: "/page:num/"
-# timezone: "Europe/Vienna"
-
-# include:
-#   - _pages
-
-# plugins:
-#   - jekyll-paginate
-#   - jekyll-sitemap
-#   - jekyll-gist
-#   - jekyll-feed
-#   - jemoji
-#   - jekyll-include-cache
-
-# # Keep conference pages clean (no sidebar)
-# defaults:
-#   - scope:
-#       path: ""
-#       type: posts
-#     values:
-#       layout: single
-#       author_profile: false
-#       read_time: true
-#       comments: false
-#       share: true
-#       related: true
-#   - scope:
-#       path: "_pages"
-#       type: pages
-#     values:
-#       layout: single
-#       author_profile: false
-
-# category_archive:
-#   type: liquid
-#   path: /categories/
-# tag_archive:
-#   type: liquid
-#   path: /tags/
-
-
-
-
-
 
 
 
