@@ -37,7 +37,7 @@ ul.committee .affil { display: block; font-size: 0.95rem; opacity: 0.8; }
     </div>
   </li>
   <li>
-    <img src="/assets/images/saif_pc.jpg" alt="Saif M. Mohammad">
+    <img src="/assets/images/saif_pc.png" alt="Saif M. Mohammad">
     <div class="info">
       <a href="https://www.saifmohammad.com/">Saif M. Mohammad</a>
       <span class="affil">National Research Council Canada</span>
