@@ -1,14 +1,10 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
----
 layout: splash
 title: "*SEM 2026"
 excerpt: "The 15th Joint Conference on Lexical and Computational Semantics"
 permalink: /
 header:
-  overlay_image: /assets/images/san_diego_skyline.jpg    # add this image
+  overlay_image: /assets/images/san_diego_skyline.jpg   # change or remove
   overlay_filter: 0.35
   actions:
     - label: "Call for Papers"
@@ -33,4 +29,3 @@ feature_row:
 {% include feature_row id="intro" type="center" %}
 {% include feature_row %}
 
----
