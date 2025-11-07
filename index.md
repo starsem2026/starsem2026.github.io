@@ -9,8 +9,7 @@ header:
   actions:
     - label: "Call for Papers"
       url: /calls/
-    - label: "Important Dates"
-      url: /dates/
+    
 
 intro:
   - excerpt: >
@@ -31,41 +30,57 @@ feature_row:
     excerpt: "Location, hotels, visas, and local info."
 ---
 
+
+
 {% include feature_row id="intro" type="center" %}
-{% include feature_row %}
-
-
-
-
-## Important Dates
 
 {% capture dates_table %}
 {% include important_dates.md %}
 {% endcapture %}
 
-<div class="dates-highlight">
+<div class="home-dates">
+  <h3>📅 Important Dates</h3>
   {{ dates_table | markdownify }}
+  <div class="dates-link"><a href="/dates/">See all dates →</a></div>
 </div>
 
+{% include feature_row %}
+
 <style>
-.dates-highlight{
-  background: #f7f7f9;
+.home-dates{
+  display: inline-block;          /* shrink to table width */
+  background: #fff;               /* no full-width highlight */
   border: 1px solid #e5e5ea;
   border-radius: 12px;
-  padding: 16px 18px;
-  margin: 24px 0 8px;
+  padding: 12px 14px;
+  margin: 12px auto 24px;         /* center under the excerpt */
   box-shadow: 0 1px 2px rgba(0,0,0,.04);
 }
-.dates-highlight table{
-  width: 100%;
-  margin: 0;
+.home-dates h3{
+  margin: 0 0 8px;
+  text-align: center;
 }
-.dates-highlight th,
-.dates-highlight td{
-  padding: 8px 10px;
+.home-dates table{
+  width: auto;                    /* no 100% stretch */
+  margin: 0 auto;                 /* center the table */
+  border-collapse: collapse;
 }
-.dates-highlight tr:nth-child(even) td{
+.home-dates th,
+.home-dates td{
+  padding: 6px 10px;
+  white-space: nowrap;            /* keeps cells tidy */
+}
+.home-dates tr:nth-child(even) td{
   background: rgba(0,0,0,.03);
+}
+.home-dates .dates-link{
+  text-align: center;
+  font-size: .9rem;
+  margin-top: 6px;
+}
+@media (max-width: 480px){
+  .home-dates{ width: 100%; }     /* full width on small screens */
+  .home-dates table{ width: 100%; }
 }
 </style>
 
