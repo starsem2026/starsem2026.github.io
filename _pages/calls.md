@@ -4,4 +4,4 @@ permalink: /calls/
 layout: single
 toc: true
 ---
-Content for CFP (topics, formatting, anonymity, ethics, dual submission, etc.).
+Coming Soon. Please check back later!
