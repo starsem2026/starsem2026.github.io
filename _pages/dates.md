@@ -4,4 +4,4 @@ permalink: /dates/
 layout: single
 ---
 
-{% include important_dates.md %}
+{% include important_dates.html %}
