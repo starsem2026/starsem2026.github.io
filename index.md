@@ -34,10 +34,17 @@ feature_row:
 {% include feature_row id="intro" type="center" %}
 {% include feature_row %}
 
+
+
+
 ## Important Dates
 
+{% capture dates_table %}
+{% include important_dates.md %}
+{% endcapture %}
+
 <div class="dates-highlight">
-  {% include important_dates.md %}
+  {{ dates_table | markdownify }}
 </div>
 
 <style>
@@ -61,4 +68,6 @@ feature_row:
   background: rgba(0,0,0,.03);
 }
 </style>
+
+
 
