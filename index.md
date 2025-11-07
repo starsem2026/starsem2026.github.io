@@ -75,9 +75,13 @@ feature_row:
 }
 
 .left-col table {
-  width: 100%;
+  width: auto;                /* shrink to content width */
+  margin-left: auto;          /* center horizontally */
+  margin-right: auto;         /* center horizontally */
   border-collapse: collapse;
+  text-align: center;         /* center table text */
 }
+
 .left-col th, .left-col td {
   padding: 6px 10px;
   white-space: nowrap;
