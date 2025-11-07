@@ -33,56 +33,86 @@ feature_row:
 
 
 {% include feature_row id="intro" type="center" %}
+<div class="home-two-col">
 
-{% capture dates_table %}
-{% include important_dates.md %}
-{% endcapture %}
+  <!-- Left column: Important dates -->
+  <div class="left-col">
+    <h3>📅 Important Dates</h3>
 
-<div class="home-dates">
-  <h3>📅 Important Dates</h3>
-  {{ dates_table | markdownify }}
-  <div class="dates-link"><a href="/dates/">See all dates →</a></div>
+    {% capture dates_table %}
+    {% include important_dates.md %}
+    {% endcapture %}
+    {{ dates_table | markdownify }}
+
+    <div class="dates-link">
+      <a href="/dates/">See all dates →</a>
+    </div>
+  </div>
+
+  <!-- Right column: feature tiles -->
+  <div class="right-col">
+    {% include feature_row %}
+  </div>
+
 </div>
 
-{% include feature_row %}
-
 <style>
-.home-dates{
-  display: inline-block;          /* shrink to table width */
-  background: #fff;               /* no full-width highlight */
+/* --- TWO COLUMN WRAPPER --- */
+.home-two-col {
+  display: flex;
+  gap: 24px;
+  margin: 24px 0 32px;
+  align-items: flex-start;
+}
+
+/* --- LEFT COLUMN: Dates --- */
+.left-col {
+  flex: 1;
+  background: #fff;
   border: 1px solid #e5e5ea;
   border-radius: 12px;
-  padding: 12px 14px;
-  margin: 12px auto 24px;         /* center under the excerpt */
+  padding: 16px 18px;
   box-shadow: 0 1px 2px rgba(0,0,0,.04);
+  max-width: 330px;
 }
-.home-dates h3{
-  margin: 0 0 8px;
-  text-align: center;
-}
-.home-dates table{
-  width: auto;                    /* no 100% stretch */
-  margin: 0 auto;                 /* center the table */
+
+.left-col table {
+  width: 100%;
   border-collapse: collapse;
 }
-.home-dates th,
-.home-dates td{
+
+.left-col th, .left-col td {
   padding: 6px 10px;
-  white-space: nowrap;            /* keeps cells tidy */
+  white-space: nowrap;
 }
-.home-dates tr:nth-child(even) td{
+
+.left-col tr:nth-child(even) td {
   background: rgba(0,0,0,.03);
 }
-.home-dates .dates-link{
+
+.left-col h3 {
   text-align: center;
-  font-size: .9rem;
-  margin-top: 6px;
+  margin-top: 0;
 }
-@media (max-width: 480px){
-  .home-dates{ width: 100%; }     /* full width on small screens */
-  .home-dates table{ width: 100%; }
+
+.dates-link {
+  text-align: center;
+  margin-top: 8px;
+  font-size: .9rem;
+}
+
+/* --- RIGHT COLUMN: Feature tiles --- */
+.right-col {
+  flex: 2;
+}
+
+/* --- MOBILE STACK --- */
+@media (max-width: 768px) {
+  .home-two-col {
+    flex-direction: column;
+  }
+  .left-col {
+    max-width: 100%;
+  }
 }
 </style>
-
-
-
