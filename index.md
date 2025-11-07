@@ -16,7 +16,7 @@ intro:
       The 15th Joint Conference on Lexical and Computational Semantics (*SEM 2026)
       is organized and sponsored by SIGLEX (ACL), and will be colocated with
       [ACL 2026](https://acl2026.org). *SEM brings together researchers interested
-      in the semantics of natural languages and its computational modeling.
+      in the semantics of natural languages and their computational modeling.
 
 feature_row:
   - title: "Author Guidelines"
@@ -39,10 +39,7 @@ feature_row:
   <div class="left-col">
     <h3>📅 Important Dates</h3>
 
-    {% capture dates_table %}
-    {% include important_dates.md %}
-    {% endcapture %}
-    {{ dates_table | markdownify }}
+    {% include important_dates.html %}
 
     <div class="dates-link">
       <a href="/dates/">See all dates →</a>
@@ -74,7 +71,7 @@ feature_row:
   border-radius: 12px;
   padding: 16px 18px;
   box-shadow: 0 1px 2px rgba(0,0,0,.04);
-  max-width: 330px;
+  max-width: 380px;
 }
 
 .left-col table {
