@@ -33,3 +33,32 @@ feature_row:
 
 {% include feature_row id="intro" type="center" %}
 {% include feature_row %}
+
+## Important Dates
+
+<div class="dates-highlight">
+  {% include important_dates.md %}
+</div>
+
+<style>
+.dates-highlight{
+  background: #f7f7f9;
+  border: 1px solid #e5e5ea;
+  border-radius: 12px;
+  padding: 16px 18px;
+  margin: 24px 0 8px;
+  box-shadow: 0 1px 2px rgba(0,0,0,.04);
+}
+.dates-highlight table{
+  width: 100%;
+  margin: 0;
+}
+.dates-highlight th,
+.dates-highlight td{
+  padding: 8px 10px;
+}
+.dates-highlight tr:nth-child(even) td{
+  background: rgba(0,0,0,.03);
+}
+</style>
+
