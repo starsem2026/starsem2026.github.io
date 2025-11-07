@@ -54,10 +54,11 @@ feature_row:
     {% include feature_row %}
   </div>
 
-</div>
+</div>  <!-- end home-two-col -->
+
+<hr style="margin-top: 20px;">
 
 <style>
-/* --- TWO COLUMN WRAPPER --- */
 .home-two-col {
   display: flex;
   gap: 24px;
@@ -65,7 +66,7 @@ feature_row:
   align-items: flex-start;
 }
 
-/* --- LEFT COLUMN: Dates --- */
+/* LEFT COLUMN */
 .left-col {
   flex: 1;
   background: #fff;
@@ -80,33 +81,29 @@ feature_row:
   width: 100%;
   border-collapse: collapse;
 }
-
 .left-col th, .left-col td {
   padding: 6px 10px;
   white-space: nowrap;
 }
-
 .left-col tr:nth-child(even) td {
   background: rgba(0,0,0,.03);
 }
-
 .left-col h3 {
   text-align: center;
   margin-top: 0;
 }
-
 .dates-link {
   text-align: center;
   margin-top: 8px;
   font-size: .9rem;
 }
 
-/* --- RIGHT COLUMN: Feature tiles --- */
+/* RIGHT COLUMN */
 .right-col {
   flex: 2;
 }
 
-/* --- MOBILE STACK --- */
+/* MOBILE */
 @media (max-width: 768px) {
   .home-two-col {
     flex-direction: column;
@@ -116,3 +113,4 @@ feature_row:
   }
 }
 </style>
+
