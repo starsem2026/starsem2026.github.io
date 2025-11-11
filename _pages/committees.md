@@ -47,6 +47,20 @@ ul.committee .affil { display: block; font-size: 0.95rem; opacity: 0.8; }
 
 ---
 
+## Publication Chair
+<ul class="committee">
+  <li>
+    <img src="/assets/images/yuan_publication_chair.png" alt="Zheng Yuan">
+    <div class="info">
+      <a href="https://sheffield.ac.uk/cs/people/academic/zheng-yuan">Zheng Yuan</a>
+      <span class="affil">University of Sheffield</span>
+    </div>
+  </li>
+</ul>
+
+
+---
+
 ## Publicity Chair
 <ul class="committee">
   <li>
