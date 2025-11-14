@@ -52,10 +52,18 @@ ul.committee .affil { display: block; font-size: 0.95rem; opacity: 0.8; }
   <li>
     <img src="/assets/images/yuan_publication_chair.png" alt="Zheng Yuan">
     <div class="info">
-      <a href="https://sheffield.ac.uk/cs/people/academic/zheng-yuan">Zheng Yuan</a>
+      <a href="https://www.cl.cam.ac.uk/~zy249/">Zheng Yuan</a>
       <span class="affil">University of Sheffield</span>
     </div>
   </li>
+ <li>
+    <img src="/assets/images/jodie_publication_chair.png" alt="Yi (Jodie) Zhou">
+    <div class="info">
+      <a href="https://jodiechou.github.io/">Yi (Jodie) Zhou</a>
+      <span class="affil">Cardiff University</span>
+    </div>
+  </li>
+
 </ul>
 
 
