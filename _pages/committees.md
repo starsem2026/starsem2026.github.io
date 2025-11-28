@@ -21,6 +21,7 @@ ul.committee .affil { display: block; font-size: 0.95rem; opacity: 0.8; }
     <div class="info">
       <a href="https://www.sheffield.ac.uk/cs/people/academic/mark-stevenson">Mark Stevenson</a>
       <span class="affil">University of Sheffield</span>
+      <span class="email"><a href="mailto:startsem-2026-pcs@googlegroups.com">Email</a></span>
     </div>
   </li>
 </ul>
@@ -34,6 +35,7 @@ ul.committee .affil { display: block; font-size: 0.95rem; opacity: 0.8; }
     <div class="info">
       <a href="https://nedjmaou.github.io/">Nedjma Ousidhoum</a>
       <span class="affil">Cardiff University</span>
+      <span class="email"><a href="mailto:startsem-2026-pcs@googlegroups.com">Email</a></span>
     </div>
   </li>
   <li>
@@ -41,6 +43,7 @@ ul.committee .affil { display: block; font-size: 0.95rem; opacity: 0.8; }
     <div class="info">
       <a href="https://www.saifmohammad.com/">Saif M. Mohammad</a>
       <span class="affil">National Research Council Canada</span>
+       <span class="email"><a href="mailto:startsem-2026-pcs@googlegroups.com">Email</a></span>
     </div>
   </li>
 </ul>
@@ -54,6 +57,7 @@ ul.committee .affil { display: block; font-size: 0.95rem; opacity: 0.8; }
     <div class="info">
       <a href="https://www.cl.cam.ac.uk/~zy249/">Zheng Yuan</a>
       <span class="affil">University of Sheffield</span>
+       <span class="email"><a href="mailto:zheng.yuan1@sheffield.ac.uk">Email</a></span>
     </div>
   </li>
  <li>
@@ -61,6 +65,7 @@ ul.committee .affil { display: block; font-size: 0.95rem; opacity: 0.8; }
     <div class="info">
       <a href="https://jodiechou.github.io/">Yi (Jodie) Zhou</a>
       <span class="affil">Cardiff University</span>
+      <span class="email"><a href="mailto:zhouy131@cardiff.ac.uk">Email</a></span>
     </div>
   </li>
 
@@ -75,7 +80,9 @@ ul.committee .affil { display: block; font-size: 0.95rem; opacity: 0.8; }
     <img src="/assets/images/MD04510.jpg" alt="Hsuvas Borkakoty">
     <div class="info">
       <a href="https://hsuvas.wixsite.com/hsuvas">Hsuvas Borkakoty</a>
-      <span class="affil">IT:U Interdisciplinary Transformation University Austria </span>
+      <span class="affil">IT:U Interdisciplinary Transformation University Austria</span>
+      <span class="email"><a href="mailto:hsuvas.borkakoty@it-u.at">Email</a></span>
     </div>
   </li>
 </ul>
+
