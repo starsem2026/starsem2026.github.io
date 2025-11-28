@@ -14,7 +14,7 @@ toc: true
 *SEM encourages authors to consider ethical aspects of their work, and to address and discuss ethical questions and implications relevant to their research. *SEM also values reproducibility and particularly welcomes submissions that adhere to the reproducibility guidelines as specified [here](https://folk.idi.ntnu.no/odderik/reproducibility_guidelines.pdf).
 
 
-**New for *Sem 2026:**
+**New for \*Sem 2026:**
 
  1. **One Day Conference**: Unlike past iterations, *Sem 2026 will be a one-day conference. (ACL has informed us that this is due to venue size limitations.)
  2. **Centering Research Questions**: Research questions in *Sem, and NLP generally, can be roughly categorized into those that address:
