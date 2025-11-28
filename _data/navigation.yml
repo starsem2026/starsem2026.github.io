@@ -3,12 +3,12 @@ main:
     url: /
   - title: "Calls"
     url: /calls/
-  - title: "Dates"
-    url: /dates/
   - title: "Program"
     url: /program/
   - title: "Committees"
     url: /committees/
+  - title: "Blog"
+    url: /blog/
   - title: "Venue"
     url: /venue/
   - title: "News"
