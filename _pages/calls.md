@@ -14,7 +14,7 @@ toc: true
 *SEM encourages authors to consider ethical aspects of their work, and to address and discuss ethical questions and implications relevant to their research. *SEM also values reproducibility and particularly welcomes submissions that adhere to the reproducibility guidelines as specified [here](https://folk.idi.ntnu.no/odderik/reproducibility_guidelines.pdf).
 
 <div style="background:#0366d6; color:white; padding:10px 14px; border-radius:6px;">
-  <strong>Please fill out</strong>
+  Please fill out
   <a href="https://forms.gle/LshhezkfXkKicqMq5"
      style="color:white; text-decoration: underline;">
      this form
@@ -98,10 +98,10 @@ Submissions should follow the [ARR formatting requirements](https://github.com/a
 **Submission routes and deadlines**
 *SEM solicits direct submissions (not through ARR). The deadline for direct submissions is Feb 13, 2026, and these submissions will be reviewed by the *SEM2025 program committee. Submissions are made through OpenReview.
 
-<div style="background:#0366d6; color:white; padding:10px 14px; border-radius:6px;">
+<div style="background:#0366d6; color:white; padding:10px 14px; border-radius:8px;">
   <strong>Direct submission link:</strong><br>
   <a href="https://openreview.net/group?id=aclweb.org/StarSEM/2026/Conference"
-     style="color:white; text-decoration: underline; white-space: nowrap;">
+     style="color:white; text-decoration: underline;">
      https://openreview.net/group?id=aclweb.org/StarSEM/2026/Conference
   </a>
 </div>
@@ -114,15 +114,14 @@ Submissions should follow the [ARR formatting requirements](https://github.com/a
 ## Important Dates
 *(All deadlines are 11:59pm UTC-12h, AoE)*  
 <br>
-<div style="background:#0366d6; color:white; padding:18px 22px; border-radius:8px;">
+<div style="background:#0366d6; color:white; padding:18px 22px; border-radius:10px;">
 
-Direct submission deadline (long & short papers): <strong>Feb 13, 2026</strong><br>
-Notification of acceptance: May 5, 2026<br>
-Camera-ready deadline: May 26, 2026<br>
-Conference date: July 6, 2026 (co-located with ACL 2026)<br>
+- Direct submission deadline (long & short papers): <strong>Feb 13, 2026</strong><br>
+- Notification of acceptance: May 5, 2026<br>
+- Camera-ready deadline: May 26, 2026<br>
+- Conference date: July 6, 2026 (co-located with ACL 2026)<br>
 
 </div>
-
 
 
 Following the [ACL and ARR policies](https://www.aclweb.org/portal/content/report-acl-committee-anonymity-policy), there is no anonymity period requirement.
