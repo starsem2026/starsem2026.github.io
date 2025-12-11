@@ -53,7 +53,6 @@ feature_row:
 
 </div>  <!-- end home-two-col -->
 
-<!-- </div>  <!-- end home-two-col --> -->
 
 <hr style="margin-top: 20px;">
 
