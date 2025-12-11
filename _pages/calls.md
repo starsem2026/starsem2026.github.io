@@ -13,14 +13,14 @@ toc: true
 
 *SEM encourages authors to consider ethical aspects of their work, and to address and discuss ethical questions and implications relevant to their research. *SEM also values reproducibility and particularly welcomes submissions that adhere to the reproducibility guidelines as specified [here](https://folk.idi.ntnu.no/odderik/reproducibility_guidelines.pdf).
 
-<div style="background:#0056b3; color:white; padding:10px 14px; border-radius:6px;">
+<div style="background:#0366d6; color:white; padding:10px 14px; border-radius:6px;">
   <strong>Please fill out</strong>
   <a href="https://forms.gle/LshhezkfXkKicqMq5"
      style="color:white; text-decoration: underline;">
      this form
   </a>
   if you would like to volunteer as a reviewer or as an AC.
-  <br><br>
+  <br>
   Feel free to contact the PCs at
   <a href="mailto:startsem-2026-pcs@googlegroups.com"
      style="color:white; text-decoration: underline;">
@@ -30,8 +30,10 @@ toc: true
 </div>
 
 
+<br><br> 
 
-**New for \*Sem 2026:**
+
+## New for *Sem 2026:
 
  1. **One Day Conference**: Unlike past iterations, *Sem 2026 will be a one-day conference. (ACL has informed us that this is due to venue size limitations.)
  2. **Centering Research Questions**: Research questions in *Sem, and NLP generally, can be roughly categorized into those that address:
@@ -100,24 +102,22 @@ Submissions should follow the [ARR formatting requirements](https://github.com/a
 **Submission routes and deadlines**
 *SEM solicits direct submissions (not through ARR). The deadline for direct submissions is Feb 13, 2026, and these submissions will be reviewed by the *SEM2025 program committee. Submissions are made through OpenReview.
 
-<div style="background:#0056b3; color:white; padding:10px 14px; border-radius:6px;">
+<div style="background:#0366d6; color:white; padding:10px 14px; border-radius:6px;">
   <strong>Direct submission link:</strong><br>
   <a href="https://openreview.net/group?id=aclweb.org/StarSEM/2026/Conference"
      style="color:white; text-decoration: underline;">
      https://openreview.net/group?id=aclweb.org/StarSEM/2026/Conference
   </a>
 </div>
-
-  
+<br><br>
 
 **Multiple submission policy**: *SEM does not prohibit the submission of work that is under consideration for another venue at the same time as the *SEM review period. However, authors of such papers will be asked to declare this at submission time. 
 
-
+<div style="background:#0366d6; color:white; padding:18px 22px; border-radius:8px;">
+	
 ## Important Dates
 *(All deadlines are 11:59pm UTC-12h, AoE)*  
 <br>
-
-<div style="background:#007acc; color:white; padding:18px 22px; border-radius:8px;">
 
 Direct submission deadline (long & short papers): <strong>Feb 13, 2026</strong><br>
 Notification of acceptance: May 5, 2026<br>
