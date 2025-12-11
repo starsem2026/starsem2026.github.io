@@ -15,7 +15,7 @@ Posted: Dec 11, 2025
 
 As programme chairs, we warmly invite you to submit your paper(s) to *Sem 2026. Through a series of blog posts here, we will keep you posted on the developments of the conference. This blog post will discuss two notable changes to the review process. 
 
-<div style="background:#0366d6; color: #0366d6; padding:10px 14px; border-radius:8px;">
+<div style="background:#0366d6; color:white; padding:10px 14px; border-radius:8px;">
   <strong> 
 	  Please fill out <a href="https://forms.gle/LshhezkfXkKicqMq5" style="color:white; text-decoration: underline;"> this form </a> if you would like to volunteer as a reviewer or as an AC. 
   </strong>
@@ -47,8 +47,7 @@ Centering and explicitly articulating the research question helps authors frame 
   <strong>
     To support this, the *SEM 2026 submission form asks authors to explicitly identify the predominant research question type for their work (the three bullets listed above), as well as any additional categories that apply.
   </strong>
-</div><br>
-
+</div>
 
 Please note that there are **no quotas** for accepted papers of different types, and submissions will **not** receive preferential treatment simply because they selected a particular category. Likewise, papers that span multiple research-question types are **not** considered inherently “better” than those that focus on a single type. The purpose of this question is solely to help authors clearly communicate the nature of their work and to help reviewers evaluate it within the appropriate context.
 
@@ -63,7 +62,7 @@ Modern NLP and ML papers have often been criticized for being overly incremental
   <strong>
    To encourage work with broader scientific value and longer-term relevance, reviewers of *Sem 2026 will be asked to explicitly assess the potential lasting impact of each submission.
   </strong>
-</div><br>
+</div>
 
 
 This assessment will be included as a short written justification and will factor into the overall recommendation.
