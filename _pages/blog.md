@@ -15,13 +15,8 @@ Posted: Dec 11, 2025
 
 As programme chairs, we warmly invite you to submit your paper(s) to *Sem 2026. Through a series of blog posts here, we will keep you posted on the developments of the conference. This blog post will discuss two notable changes to the review process. 
 
-<div style="background:#0366d6; color:white; padding:10px 14px; border-radius:6px;">
-  <strong>Please fill out</strong>
-  <a href="https://forms.gle/LshhezkfXkKicqMq5"
-     style="color:white; text-decoration: underline;">
-     this form
-  </a>
-  if you would like to volunteer as a reviewer or as an AC.
+<div style="background:#0366d6; color: #0366d6; padding:10px 14px; border-radius:8px;">
+  <strong>Please fill out <a href="https://forms.gle/LshhezkfXkKicqMq5" style="color:white; text-decoration: underline;"> this form </a> if you would like to volunteer as a reviewer or as an AC. </strong>
 </div>
 
 
@@ -49,9 +44,7 @@ Centering and explicitly articulating the research question helps authors frame 
 
 <div style="background:#e7f1ff; color:#0366d6; padding:12px 16px; border-radius:8px;">
   <strong>
-    To support this, the *SEM 2026 submission form asks authors to explicitly
-    identify the predominant research question type for their work (the three
-    bullets listed above), as well as any additional categories that apply.
+    To support this, the *SEM 2026 submission form asks authors to explicitly identify the predominant research question type for their work (the three bullets listed above), as well as any additional categories that apply.
   </strong>
 </div>
 
