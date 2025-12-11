@@ -29,10 +29,6 @@ toc: true
   if you have any questions.
 </div>
 
-
-<br><br> 
-
-
 ## New for *Sem 2026:
 
  1. **One Day Conference**: Unlike past iterations, *Sem 2026 will be a one-day conference. (ACL has informed us that this is due to venue size limitations.)
@@ -105,19 +101,20 @@ Submissions should follow the [ARR formatting requirements](https://github.com/a
 <div style="background:#0366d6; color:white; padding:10px 14px; border-radius:6px;">
   <strong>Direct submission link:</strong><br>
   <a href="https://openreview.net/group?id=aclweb.org/StarSEM/2026/Conference"
-     style="color:white; text-decoration: underline;">
+     style="color:white; text-decoration: underline; white-space: nowrap;">
      https://openreview.net/group?id=aclweb.org/StarSEM/2026/Conference
   </a>
 </div>
-<br><br>
+<br>
 
 **Multiple submission policy**: *SEM does not prohibit the submission of work that is under consideration for another venue at the same time as the *SEM review period. However, authors of such papers will be asked to declare this at submission time. 
 
-<div style="background:#0366d6; color:white; padding:18px 22px; border-radius:8px;">
+
 	
 ## Important Dates
 *(All deadlines are 11:59pm UTC-12h, AoE)*  
 <br>
+<div style="background:#0366d6; color:white; padding:18px 22px; border-radius:8px;">
 
 Direct submission deadline (long & short papers): <strong>Feb 13, 2026</strong><br>
 Notification of acceptance: May 5, 2026<br>
