@@ -113,14 +113,12 @@ Submissions should follow the [ARR formatting requirements](https://github.com/a
 	
 ## Important Dates
 *(All deadlines are 11:59pm UTC-12h, AoE)*  
-<br>
-<div style="background:#0366d6; color:white; padding:18px 22px; border-radius:10px;">
 
+<div style="background:#0366d6; color:white; padding:18px 22px; border-radius:10px;">
 - Direct submission deadline (long & short papers): <strong>Feb 13, 2026</strong><br>
 - Notification of acceptance: May 5, 2026<br>
 - Camera-ready deadline: May 26, 2026<br>
 - Conference date: July 6, 2026 (co-located with ACL 2026)<br>
-
 </div>
 
 
