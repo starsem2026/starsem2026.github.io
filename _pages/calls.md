@@ -100,7 +100,7 @@ Submissions should follow the [ARR formatting requirements](https://github.com/a
 
 <div style="background:#0366d6; color:white; padding:10px 14px; border-radius:8px;">
   <strong>Direct submission link:</strong><br>
-  <a href="https://openreview.net/group?id=aclweb.org/StarSEM/2026/Conference"
+  <a href="https://openreview.net/group?id=STARSEM/2026/Conference"
      style="color:white; text-decoration: underline;">
      https://openreview.net/group?id=aclweb.org/StarSEM/2026/Conference
   </a>
