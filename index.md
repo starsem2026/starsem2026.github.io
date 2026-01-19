@@ -76,6 +76,13 @@ feature_row:
   </div>
 </div>
 
+
+<div style="text-align:center; font-size:0.85rem; margin:24px 0; opacity:0.8;">
+  *SEM logo designed by <strong>Sara Bárcena</strong>.
+</div>
+
+
+
 <style>
 .home-two-col {
   display: flex;
