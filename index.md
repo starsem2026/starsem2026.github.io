@@ -4,7 +4,7 @@ title: "*SEM 2026"
 excerpt: "The 15th Joint Conference on Lexical and Computational Semantics"
 permalink: /
 header:
-  overlay_image: /assets/images/san_diego_skyline_day.jpg
+  overlay_image: /assets/images/sandiego-1.jpg
   overlay_filter: 0.35
   actions:
     - label: "Call for Papers"
@@ -18,16 +18,7 @@ intro:
       [ACL 2026](https://acl2026.org). *SEM brings together researchers interested
       in the semantics of natural languages and their computational modeling.
 
-feature_row:
-  - title: "Author Guidelines"
-    url: "/calls/"
-    excerpt: "Topics, formatting, ethics, anonymity, and submission."
-  - title: "Program"
-    url: "/program/"
-    excerpt: "Schedule, keynotes, and accepted papers."
-  - title: "Venue & Travel"
-    url: "/venue/"
-    excerpt: "Location, hotels, visas, and local info."
+
 ---
 
 
@@ -174,6 +165,18 @@ feature_row:
 
 
 
+<!--comment feature_row:
+
+  - title: "Author Guidelines"
+    url: "/calls/"
+    excerpt: "Topics, formatting, ethics, anonymity, and submission."
+  - title: "Program"
+    url: "/program/"
+    excerpt: "Schedule, keynotes, and accepted papers."
+  - title: "Venue & Travel"
+    url: "/venue/"
+    excerpt: "Location, hotels, visas, and local info."
+-->
 
 <!-- <hr style="margin-top: 20px;">
 
