@@ -28,7 +28,7 @@ Research questions in NLP can be roughly categorized into those that address:
   
 -   new findings about language (linguistic phenomena, semantic patterns),
 -   new findings about people (language use, behavior, health, ethics, etc.),
--   new findings about automatic language processing (advancing language understanding through ML/AI and other approaches).
+-   new findings about automatic language processing (through ML/AI and other approaches).
     
 
 Centering and explicitly articulating the research question helps authors frame and present their contribution more clearly. Just as importantly, it helps reviewers and Area Chairs evaluate the work within the appropriate context. For instance, a paper that centers a compelling linguistic or behavioral research question and offers meaningful new insights need not also introduce methodological novelty or rely on the latest models (including LLMs).
