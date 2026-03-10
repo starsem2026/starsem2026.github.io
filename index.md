@@ -49,6 +49,14 @@ intro:
 
 ## News
 
+  <div class="news-item">
+    <p class="news-date">March 10, 2026</p>
+    <p>
+      We have a direct ARR submission link to *SEM:
+      <a href="https://openreview.net/group?id=aclweb.org/StarSEM/2026/Conference">ARR submission link</a>.
+    </p>
+  </div>
+
 <div class="news-list">
   <div class="news-item">
     <p class="news-date">December 11, 2025</p>
