@@ -9,6 +9,17 @@ toc: true
 *SEM brings together researchers interested in the semantics of natural languages and its computational modelling. The conference embraces a wide range of approaches including data-driven, neural, probabilistic and symbolic; practical applications as well as theoretical contributions are welcome. The long-term goal of *SEM is to provide a forum for NLP researchers working on any aspect of natural language semantics. 
 
 *SEM invites submissions related to the computational modelling of natural language semantics (understood broadly) and its application. Relevant areas include (but are not limited to) theoretical aspects of computational semantics, empirical and data-driven approaches, resources, evaluation, and applications/tools. 
+<div style="background:#0366d6; color:white; padding:10px 14px; border-radius:6px;">
+  Please fill out
+  <a href="https://forms.gle/LshhezkfXkKicqMq5"
+     style="color:white; text-decoration: underline;">
+     this form
+  </a>
+  NEW! Direct ARR submission link now available. Please commit your ARR submissions to *SEM using the following link:  <a href="https://openreview.net/group?id=aclweb.org/StarSEM/2026/Conference"
+     style="color:white; text-decoration: underline;">
+     https://openreview.net/group?id=aclweb.org/StarSEM/2026/Conference. 
+</div>
+
 
 
 *SEM encourages authors to consider ethical aspects of their work, and to address and discuss ethical questions and implications relevant to their research. *SEM also values reproducibility and particularly welcomes submissions that adhere to the reproducibility guidelines as specified [here](https://folk.idi.ntnu.no/odderik/reproducibility_guidelines.pdf).
