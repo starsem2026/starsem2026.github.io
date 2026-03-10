@@ -10,11 +10,6 @@ toc: true
 
 *SEM invites submissions related to the computational modelling of natural language semantics (understood broadly) and its application. Relevant areas include (but are not limited to) theoretical aspects of computational semantics, empirical and data-driven approaches, resources, evaluation, and applications/tools. 
 <div style="background:#0366d6; color:white; padding:10px 14px; border-radius:6px;">
-  Please fill out
-  <a href="https://forms.gle/LshhezkfXkKicqMq5"
-     style="color:white; text-decoration: underline;">
-     this form
-  </a>
   NEW! Direct ARR submission link now available. Please commit your ARR submissions to *SEM using the following link:  <a href="https://openreview.net/group?id=aclweb.org/StarSEM/2026/Conference"
      style="color:white; text-decoration: underline;">
      https://openreview.net/group?id=aclweb.org/StarSEM/2026/Conference. 
