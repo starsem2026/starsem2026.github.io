@@ -86,3 +86,43 @@ ul.committee .affil { display: block; font-size: 0.95rem; opacity: 0.8; }
   </li>
 </ul>
 
+
+## Senior Programme Committee
+
+<ul class="committee-ac">
+  <li>Valerio Basile</li>
+  <li>Steven Bethard</li>
+  <li>Hila Gonen</li>
+  <li>Bridget T. McInnes</li>
+  <li>Siyao Peng</li>
+  <li>Steven Schockaert</li>
+  <li>Sowmya Vajjala</li>
+  <li>Genta Indra Winata</li>
+  <li>Yi Zhou</li>
+</ul>
+
+
+
+<style>
+ul.committee-ac {
+  columns: 2;                 /* 2 columns on desktop */
+  -webkit-columns: 2;
+  -moz-columns: 2;
+  column-gap: 40px;
+  list-style-type: disc;
+  padding-left: 20px;
+  margin-top: 10px;
+}
+
+ul.committee-ac li {
+  margin-bottom: 6px;
+  break-inside: avoid;        /* prevents awkward splitting */
+}
+
+/* Mobile: single column */
+@media (max-width: 768px) {
+  ul.committee-ac {
+    columns: 1;
+  }
+}
+</style>
