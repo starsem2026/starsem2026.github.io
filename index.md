@@ -49,6 +49,13 @@ intro:
 
 ## News
 
+<div class="news-item">
+  <p class="news-date">February 2026</p>
+  <p>
+    ⏰ Camera-ready Submission deadline is approaching! Please submit your camera-ready papers to *SEM 2026 before May 20, 2026 (AoE).
+  </p>
+</div>
+
   <div class="news-item">
     <p class="news-date">March 10, 2026</p>
     <p>
