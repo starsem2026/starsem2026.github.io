@@ -1,10 +1,8 @@
 ---
-title: "Program"
+title: "*SEM 2026 Program"
 permalink: /program/
 layout: single
 ---
-
-# *SEM 2026 Program
 
 **Location:** San Diego, California, USA  
 **Time Zone:** Pacific Daylight Time (PDT)
