@@ -48,6 +48,12 @@ intro:
 <hr style="margin-top: 20px;">
 
 ## News
+<div class="news-item">
+  <p class="news-date">June 2026</p>
+  <p>
+    Accepted papers are now available. See the full list <a href="/accepted-papers/">here</a>.
+  </p>
+</div>
 
 <div class="news-item">
   <p class="news-date">February 2026</p>
