@@ -5,8 +5,6 @@ layout: single
 toc: true
 ---
 
-## Accepted Papers
-
 <div class="accepted-papers">
 
   <div class="paper-item">
