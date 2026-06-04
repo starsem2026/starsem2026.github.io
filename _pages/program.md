@@ -3,12 +3,7 @@ title: "Program"
 permalink: /program/
 layout: single
 ---
----
 
-title: "Program"
-permalink: /program/
-layout: single
---------------
 
 # *SEM 2026 Program
 
