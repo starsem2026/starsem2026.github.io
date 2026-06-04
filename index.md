@@ -51,14 +51,24 @@ intro:
 <div class="news-item">
   <p class="news-date">June 2026</p>
   <p>
-    Accepted papers are now available. See the full list <a href="/accepted-papers/">here</a>.
+    The *SEM 2026 program is now available. View the full schedule
+    <a href="/program/">here</a>.
   </p>
 </div>
 
 <div class="news-item">
+  <p class="news-date">June 2026</p>
+  <p>
+    The list of accepted papers for *SEM 2026 has been released. See the full list
+    <a href="/accepted-papers/">here</a>.
+  </p>
+</div>
+
+
+<div class="news-item">
   <p class="news-date">February 2026</p>
   <p>
-    ⏰ Camera-ready Submission deadline is approaching! Please submit your camera-ready papers to *SEM 2026 before May 20, 2026 (AoE).
+  Camera-ready Submission deadline is approaching! Please submit your camera-ready papers to *SEM 2026 before May 20, 2026 (AoE).
   </p>
 </div>
 
