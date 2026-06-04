@@ -5,6 +5,8 @@ main:
     url: /calls/
   - title: "Program"
     url: /program/
+  - title: "Accepted Papers"
+    url: /accepted-papers/
   - title: "Committees"
     url: /committees/
   - title: "Blog"
