@@ -1,11 +1,13 @@
 ---
-title: "*SEM 2026 Program"
+title: "Program"
 permalink: /program/
 layout: single
 ---
 
+# *SEM 2026 Program
+
 **Room:** Harbor A  
-**Note:** Except for the joint Session with SemEval at 9 am, which will be in Harbor B.  
+**Note:** Except for the joint Session with SemEval at 9 am, which will be in Harbor B.
 
 | Pacific Time | Event | Details |
 |---|---|---|
