@@ -2,9 +2,7 @@
 title: "*SEM 2026 Program"
 permalink: /program/
 layout: single
----
-
-# 
+--- 
 
 **Room:** **Harbor A**  
 **Note:** Except for the joint Session with SemEval at 9 am, which will be in **Harbor B**.
